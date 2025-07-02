@@ -28,5 +28,5 @@ This project demonstrates how to use the **Renesas RA6M5** microcontroller as an
 - As soon as the project is compiled and downloaded, find the block address(for the variable in RAM called _SEGGER_RTT) in .map file generated in the build configuration folder (Debug/Release).
 
 
-
+## Validating Operation
 > Check also the **hs3001_ra6m5_https_client_notes.md** file for further information **in hs3001_ra6m5_https_client folder.**
