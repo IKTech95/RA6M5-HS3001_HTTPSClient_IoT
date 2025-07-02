@@ -1,5 +1,5 @@
 # RA6M5 HTTPS Client with HS3001 Sensor
-This project demonstrates how to use the **Renesas RA6M5** microcontroller as an **HTTPS client** that reads temperature data from the **HS3001 sensor** and sends it securely to the **Adafruit IO** platform via HTTPS REST API. 
+This project demonstrates how to use the **Renesas RA6M5** microcontroller as an **HTTPS client** that reads temperature data from the **HS3001 sensor** and sends it securely to the **Adafruit IO** platform via HTTPS. 
 
 ## 🛠️ Hardware Requirements
 - Renesas EK-RA6M5 board  [Evaluation Kit for RA6M5 MCU Group](https://www.renesas.com/en/design-resources/boards-kits/ek-ra6m5)
